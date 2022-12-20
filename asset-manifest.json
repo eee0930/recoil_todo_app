@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/torello/static/js/main.75028d89.js",
+    "main.js": "/torello/static/js/main.ac0ca2da.js",
     "index.html": "/torello/index.html",
-    "main.75028d89.js.map": "/torello/static/js/main.75028d89.js.map"
+    "main.ac0ca2da.js.map": "/torello/static/js/main.ac0ca2da.js.map"
   },
   "entrypoints": [
-    "static/js/main.75028d89.js"
+    "static/js/main.ac0ca2da.js"
   ]
 }
