@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/torello/static/js/main.6b7a119a.js",
-    "index.html": "/torello/index.html",
-    "main.6b7a119a.js.map": "/torello/static/js/main.6b7a119a.js.map"
+    "main.js": "/recoil_todo_app/static/js/main.2641a3c4.js",
+    "index.html": "/recoil_todo_app/index.html",
+    "main.2641a3c4.js.map": "/recoil_todo_app/static/js/main.2641a3c4.js.map"
   },
   "entrypoints": [
-    "static/js/main.6b7a119a.js"
+    "static/js/main.2641a3c4.js"
   ]
 }
